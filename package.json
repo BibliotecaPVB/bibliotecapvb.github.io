@@ -37,7 +37,7 @@
     ]
   }
   {
-  "homepage": "https://bibliotecapvb.github.io",
+  "homepage": "https://BibliotecaPVB.github.io/biblioteca.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
