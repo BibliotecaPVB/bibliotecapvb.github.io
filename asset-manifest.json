@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/bibliotecapvb.github.io/static/css/main.f308332d.css",
-    "main.js": "/bibliotecapvb.github.io/static/js/main.11a07f1c.js",
+    "main.css": "/bibliotecapvb.github.io/static/css/main.5c645ef2.css",
+    "main.js": "/bibliotecapvb.github.io/static/js/main.9f84b368.js",
+    "static/js/488.5e10db74.chunk.js": "/bibliotecapvb.github.io/static/js/488.5e10db74.chunk.js",
     "index.html": "/bibliotecapvb.github.io/index.html",
-    "main.f308332d.css.map": "/bibliotecapvb.github.io/static/css/main.f308332d.css.map",
-    "main.11a07f1c.js.map": "/bibliotecapvb.github.io/static/js/main.11a07f1c.js.map"
+    "main.5c645ef2.css.map": "/bibliotecapvb.github.io/static/css/main.5c645ef2.css.map",
+    "main.9f84b368.js.map": "/bibliotecapvb.github.io/static/js/main.9f84b368.js.map",
+    "488.5e10db74.chunk.js.map": "/bibliotecapvb.github.io/static/js/488.5e10db74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f308332d.css",
-    "static/js/main.11a07f1c.js"
+    "static/css/main.5c645ef2.css",
+    "static/js/main.9f84b368.js"
   ]
 }
